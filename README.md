@@ -1,5 +1,5 @@
-Hello Waves travelers!
+Hello Acryl travelers!
 
-Feel free to ask if something goes wrong with Waves services.
+Feel free to ask if something goes wrong with Acryl services.
 
-Just raise a support ticket here - [support.wavesplatform.com](https://support.wavesplatform.com)
+Just raise a support ticket here - [support.acrylplatform.com](https://support.acrylplatform.com)
